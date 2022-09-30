@@ -1,0 +1,1 @@
+const String BASE_URL = "https://simplebeckend.herokuapp.com/api/products";
